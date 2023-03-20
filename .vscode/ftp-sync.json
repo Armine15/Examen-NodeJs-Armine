@@ -1,0 +1,19 @@
+{
+    "remotePath": "./2023-DFS/",
+    "host": "192.168.56.102",
+    "username": "sikara",
+    "password": "885788",
+    "port": 22,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store",
+        "\\node_modules",
+        "node_modules"
+    ]
+  }

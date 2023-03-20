@@ -1,0 +1,22 @@
+{
+  "name": "exam-nodejs",
+  "version": "1.0.0",
+  "description": "examen projet sous nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "musique",
+    "exam"
+  ],
+  "author": "Armine Tovmassian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.21",
+    "uuid": "^9.0.0"
+  }
+}
